@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalendarAndContacts", "Coursework2\CalendarAndContacts.csproj", "{FCB35015-9C1E-4B5E-B545-EC26B73E518A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCB35015-9C1E-4B5E-B545-EC26B73E518A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCB35015-9C1E-4B5E-B545-EC26B73E518A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCB35015-9C1E-4B5E-B545-EC26B73E518A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{FCB35015-9C1E-4B5E-B545-EC26B73E518A}.Debug|x86.Build.0 = Debug|Any CPU
+		{FCB35015-9C1E-4B5E-B545-EC26B73E518A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCB35015-9C1E-4B5E-B545-EC26B73E518A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCB35015-9C1E-4B5E-B545-EC26B73E518A}.Release|x86.ActiveCfg = Release|Any CPU
+		{FCB35015-9C1E-4B5E-B545-EC26B73E518A}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7456AB8A-8444-48DE-8437-1E0C2E4C9E31}
+	EndGlobalSection
+EndGlobal
